@@ -1,0 +1,12 @@
+No configs found; falling back on auto-configuration
+No configs specified for inline runner
+Creating temp directory C:\Users\FNOFLI~1\AppData\Local\Temp\MapReduce.fnofliwar.20230213.143053.030149
+Running step 1 of 1...
+job output is in C:\Users\FNOFLI~1\AppData\Local\Temp\MapReduce.fnofliwar.20230213.143053.030149\output
+Streaming final output from C:\Users\FNOFLI~1\AppData\Local\Temp\MapReduce.fnofliwar.20230213.143053.030149\output...
+"gunting"       930
+"headset"       288
+"kertas"        273
+"paku"  603
+"palu"  906
+Removing temp directory C:\Users\FNOFLI~1\AppData\Local\Temp\MapReduce.fnofliwar.20230213.143053.030149...
